@@ -1,4 +1,4 @@
-# boilerplate-ts-node-jest
+# simple-cart-ts-node-jest
 
 ## Installation Instructions
 
