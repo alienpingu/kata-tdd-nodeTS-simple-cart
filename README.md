@@ -22,7 +22,7 @@ Controllare che la quantità degli item nel carrello sia minore o ugale di quell
     - [x] Ottinei qty su prodotto da nome
 - Cart, 
     - [x] aggiungi quantità di prodotti al carrello , solo se disponibile in storage
-    - [] rimuovi qty di prod dal carrello 
+    - [ ] rimuovi qty di prod dal carrello 
     - [x] ottieni il prezzo totale del carrello in €
     - [x] può esser calcolato il prezzo di uno sconto dato un codice
-    - [] Compra -> Rimuovi qty di prodotti dallo storage
+    - [ ] Compra -> Rimuovi qty di prodotti dallo storage
